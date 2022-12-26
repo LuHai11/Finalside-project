@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "825771812431",
+    "project_id": "test-faa1d",
+    "storage_bucket": "test-faa1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825771812431:android:113b6dbb968f5dc9542c3a",
+        "android_client_info": {
+          "package_name": "com.azhon.lottery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825771812431-taoed3mfpb6euj7dld027dkugunkr684.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3aH_r_1__eyKVnE1I-jarRfEbVnSAPOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825771812431-taoed3mfpb6euj7dld027dkugunkr684.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825771812431-emq6fnjq9vpnslhnpkf1nte9tdfr3taf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mytodolist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825771812431:android:d135d62b9d9f7d92542c3a",
+        "android_client_info": {
+          "package_name": "com.example.mytodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825771812431-taoed3mfpb6euj7dld027dkugunkr684.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3aH_r_1__eyKVnE1I-jarRfEbVnSAPOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825771812431-taoed3mfpb6euj7dld027dkugunkr684.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825771812431-emq6fnjq9vpnslhnpkf1nte9tdfr3taf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mytodolist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
